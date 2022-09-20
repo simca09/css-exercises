@@ -1,0 +1,21 @@
+.odd-numbers
+    {
+        background-color: hsla(325, 41%, 51%, 0.3);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.odd-numbers#cooler
+    {
+        font-size: 24px;
+    }
+
+#one-id
+    {
+        color: hsl(241, 100%, 48%);
+        font-size: 36px;
+    }
+#another-id
+    {   
+        background-color: #99f1a780;
+        font-size: 24px;
+        font-weight: bold;
+    }
